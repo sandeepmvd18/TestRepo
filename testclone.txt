@@ -1,20 +1,6 @@
 Hello world
 my first commiy
-<<<<<<< HEAD
 my second commit
-<<<<<<< HEAD
 my third commit
-<<<<<<< HEAD
 my fourth commit
 my fifth commit
-my sixth commit
-=======
-my third commit
->>>>>>> parent of 86b7440 (fourth commit)
-=======
-my fourth commit
->>>>>>> parent of d3a6ab5 (fisft commit)
-This is the final version I want to keep
-=======
-my second commit
->>>>>>> parent of 52ecd08 (second commit)
