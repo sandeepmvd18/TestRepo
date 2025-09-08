@@ -1,7 +1,11 @@
 Hello world
 my first commiy
 my second commit
+<<<<<<< HEAD
 my third commit
 my fourth commit
 my fifth commit
 my sixth commit
+=======
+my third commit
+>>>>>>> parent of 86b7440 (fourth commit)
